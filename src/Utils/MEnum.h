@@ -1,0 +1,5 @@
+
+
+#pragma once
+enum TILETYPE{ROAD,BUILDING};
+enum TRIP_STATUS{ INQUEUE, ACTIVE ,DONE };
