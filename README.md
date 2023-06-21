@@ -12,4 +12,5 @@ Uses A* pathfinding,
 NPC traffic simulation,
 Traffic lights,
 Dispatch system,
+vehicle management with fixed record binary files,
 Billing system.
