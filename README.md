@@ -7,9 +7,9 @@ This is the taxi emulator created for my computer systems project.
 
 Important points:
 
-Uses A* pathfinding
-2D map
-NPC traffic simulation
-Traffic lights
-Dispatch system
-Billing system
+Uses A* pathfinding,
+2D map,
+NPC traffic simulation,
+Traffic lights,
+Dispatch system,
+Billing system.
