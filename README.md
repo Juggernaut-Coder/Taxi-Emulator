@@ -15,5 +15,6 @@ Dispatch system,
 Vehicle management with fixed record binary files,
 Billing system.
 
-
-
+To compile: 
+mkdir -p build && cd build
+cmake .. && make
