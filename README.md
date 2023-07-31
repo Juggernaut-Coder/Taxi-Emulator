@@ -16,5 +16,5 @@ Vehicle management with fixed record binary files,
 Billing system.
 
 To compile: 
-mkdir -p build && cd build
-cmake .. && make
+1) mkdir -p build && cd build
+2) cmake .. && make
